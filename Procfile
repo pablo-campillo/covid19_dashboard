@@ -1,1 +1,1 @@
-web: bokeh serve --port=$PORT --allow-websocket-origin=covid19dashboard.herokuapp.com --address=0.0.0.0 --use-xheaders covid19dashboard/
+web: bokeh serve --port=$PORT --allow-websocket-origin=covid19-vaccination-dashboard.herokuapp.com --address=0.0.0.0 --use-xheaders covid19dashboard/
