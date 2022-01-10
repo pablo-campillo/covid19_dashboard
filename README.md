@@ -1,5 +1,5 @@
 # covid19_dashboard
-COVID-19 Dashboard build on Bokeh
+COVID-19 Dashboard Demo built on Bokeh is available [here](https://covid19-vaccination-dashboard.herokuapp.com/covid19dashboard).
 
 # Setup
 
